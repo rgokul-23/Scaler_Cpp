@@ -1,2 +1,2 @@
 # Scaler_Cpp
-This repository contains cpp programs worked in Scaler Cpp Course www.scaler.com/topics/course/cpp-beginners/
+This repository contains C++ programs worked in Scaler Course www.scaler.com/topics/course/cpp-beginners/
